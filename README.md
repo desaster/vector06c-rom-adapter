@@ -14,4 +14,4 @@ Status: **UNTESTED, PROBABLY DANGEROUS ⚠️**
 4. Solder a double wipe socket to the adapter
 5. Add 2KB ROM chip and enjoy
 
-![Vector-06C ROM Adapter](https://github.com/desaster/vector06c-rom-adapter/blob/master/v06c-rom-adapter-2KB/board.jpg?raw=true)
+![Vector-06C ROM Adapter](https://github.com/desaster/vector06c-rom-adapter/blob/master/v06c-rom-adapter-2KB/board.png?raw=true)
