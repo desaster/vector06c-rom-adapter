@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name v06c-rom-adapter-footprints)(type KiCad)(uri ${KIPRJMOD}/../lib/v06c-rom-adapter-footprints.pretty)(options "")(descr ""))
+)
