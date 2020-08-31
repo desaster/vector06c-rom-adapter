@@ -4,7 +4,7 @@ To attach a 2KB rom to Vector-06c, normally you'd need to cut some traces and
 add jumper wires. This mod attempts to eliminate the need to cut traces, and
 minimizes the number of external wires.
 
-Status: **UNTESTED, PROBABLY DANGEROUS ⚠️**
+Status: **~~UNTESTED~~, PROBABLY DANGEROUS ⚠️**
 
 ## How to build (theoretical, until proven successful)
 
